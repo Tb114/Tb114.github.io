@@ -1,3 +1,13 @@
+
+1. 7-zip
+[`7-zip.org/download.html`](https://www.7-zip.org/download.html)
+
+2. Bandizip
+[`bandisoft.com/bandizip`](https://www.bandisoft.com/bandizip/)
+
+3.EveryThing
+[`voidtools.com/zh-cn/downloads`](https://www.voidtools.com/zh-cn/downloads/)
+
 4. OBS
 [`obsproject.com/download`](https://obsproject.com/download)
 
