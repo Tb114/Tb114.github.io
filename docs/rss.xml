@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Tb114.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Tb114.github.io</link></image><lastBuildDate>Tue, 02 Jul 2024 07:27:16 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Apps Download</title><link>https://Tb114.github.io/post/Apps%20Download.html</link><description>&#13;
-1. 7-zip&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Tb114.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Tb114.github.io</link></image><lastBuildDate>Tue, 02 Jul 2024 07:47:26 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Apps Download</title><link>https://Tb114.github.io/post/Apps%20Download.html</link><description>1. 7-zip&#13;
 [`7-zip.org/download.html`](https://www.7-zip.org/download.html)&#13;
 &#13;
 2. Bandizip&#13;
@@ -20,6 +19,9 @@
 &#13;
 7. Recuva&#13;
 [`ccleaner.com/zh-cn/recuva/download`](https://www.ccleaner.com/zh-cn/recuva/download)&#13;
+&#13;
+8.UpdateStar&#13;
+[`https://www.updatestar.com/`](https://www.updatestar.com/)&#13;
 &#13;
 ### Minecraft&#13;
 &#13;

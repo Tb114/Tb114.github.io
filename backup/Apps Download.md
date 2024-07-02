@@ -1,4 +1,3 @@
-
 1. 7-zip
 [`7-zip.org/download.html`](https://www.7-zip.org/download.html)
 
@@ -19,6 +18,9 @@
 
 7. Recuva
 [`ccleaner.com/zh-cn/recuva/download`](https://www.ccleaner.com/zh-cn/recuva/download)
+
+8.UpdateStar
+[`https://www.updatestar.com/`](https://www.updatestar.com/)
 
 ### Minecraft
 
