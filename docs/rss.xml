@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Tb114.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Tb114.github.io</link></image><lastBuildDate>Tue, 02 Jul 2024 16:37:58 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Apps Download</title><link>https://Tb114.github.io/post/Apps%20Download.html</link><description>1. 7-zip&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Tb114.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Tb114.github.io</link></image><lastBuildDate>Wed, 03 Jul 2024 04:46:33 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Tools</title><link>https://Tb114.github.io/post/Tools.html</link><description># Tools&#13;
+&#13;
+网页blob文件下载&#13;
+`blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html`&#13;
+&#13;
+字转字符 &#13;
+[`http://life.chacuo.net/convertfont2char`](http://life.chacuo.net/convertfont2char)&#13;
+&#13;
+github下载加速&#13;
+[`gh.api.99988866.xyz`](gh.api.99988866.xyz)&#13;
+&#13;
+在线Ping&#13;
+[`itdog.cn/ping`](itdog.cn/ping)&#13;
+&#13;
+MicrosoftStore Appx下载&#13;
+[`https://store.rg-adguard.net/`](https://store.rg-adguard.net/)。</description><guid isPermaLink="true">https://Tb114.github.io/post/Tools.html</guid><pubDate>Wed, 03 Jul 2024 04:46:10 +0000</pubDate></item><item><title>Apps Download</title><link>https://Tb114.github.io/post/Apps%20Download.html</link><description>1. 7-zip&#13;
 [`7-zip.org/download.html`](https://www.7-zip.org/download.html)&#13;
 &#13;
 2. Bandizip&#13;
