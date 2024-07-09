@@ -22,6 +22,13 @@
 8.UpdateStar
 [`https://www.updatestar.com/`](https://www.updatestar.com/)
 
+9.Windows Terimal
+[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)
+
+10.Powershell
+[https://github.com/PowerShell/powershell/releases](https://github.com/PowerShell/powershell/releases)
+
+
 ### Minecraft
 
 1. Java
