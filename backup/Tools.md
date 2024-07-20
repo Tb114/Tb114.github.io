@@ -14,3 +14,7 @@ github下载加速
 
 MicrosoftStore Appx下载
 [`https://store.rg-adguard.net/`](https://store.rg-adguard.net/)
+
+杀jiyu+学机管
+[https://github.com/BengbuGuards/MythwareToolkit/](https://github.com/BengbuGuards/MythwareToolkit/)(github)
+[https://wwt.lanzoub.com/b00pu06li](https://wwt.lanzoub.com/b00pu06li)(密码:bbzl)
