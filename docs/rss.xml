@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Tb's Blog</title><link>https://Tb114.github.io</link><description>这是Tb的博客</description><copyright>Tb's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Tb114.github.io</link></image><lastBuildDate>Sat, 20 Jul 2024 01:18:46 +0000</lastBuildDate><managingEditor>Tb's Blog</managingEditor><ttl>60</ttl><webMaster>Tb's Blog</webMaster><item><title>Tools</title><link>https://Tb114.github.io/post/Tools.html</link><description># Tools&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Tb's Blog</title><link>https://Tb114.github.io</link><description>这是Tb的博客</description><copyright>Tb's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Tb114.github.io</link></image><lastBuildDate>Sat, 20 Jul 2024 01:19:16 +0000</lastBuildDate><managingEditor>Tb's Blog</managingEditor><ttl>60</ttl><webMaster>Tb's Blog</webMaster><item><title>Tools</title><link>https://Tb114.github.io/post/Tools.html</link><description># Tools&#13;
 &#13;
 网页blob文件下载&#13;
 [`blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html`](https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html)&#13;
@@ -43,16 +43,16 @@ MicrosoftStore Appx下载&#13;
 [`https://www.updatestar.com/`](https://www.updatestar.com/)&#13;
 &#13;
 9.Windows Terimal&#13;
-[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)&#13;
+[`https://github.com/microsoft/termina`l](https://github.com/microsoft/terminal)&#13;
 &#13;
 10.Powershell&#13;
-[https://github.com/PowerShell/powershell/releases](https://github.com/PowerShell/powershell/releases)&#13;
+[`https://github.com/PowerShell/powershell/releases`](https://github.com/PowerShell/powershell/releases)&#13;
 &#13;
 11.VSCode&#13;
-[https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user](https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user)&#13;
+[`https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user`](https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user)&#13;
 &#13;
 12.minGW&#13;
-[https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)&#13;
+[`https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/`](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)&#13;
 ### Minecraft&#13;
 &#13;
 1. Java&#13;

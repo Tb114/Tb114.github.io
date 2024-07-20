@@ -23,16 +23,16 @@
 [`https://www.updatestar.com/`](https://www.updatestar.com/)
 
 9.Windows Terimal
-[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)
+[`https://github.com/microsoft/termina`l](https://github.com/microsoft/terminal)
 
 10.Powershell
-[https://github.com/PowerShell/powershell/releases](https://github.com/PowerShell/powershell/releases)
+[`https://github.com/PowerShell/powershell/releases`](https://github.com/PowerShell/powershell/releases)
 
 11.VSCode
-[https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
+[`https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user`](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
 12.minGW
-[https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)
+[`https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/`](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)
 ### Minecraft
 
 1. Java
