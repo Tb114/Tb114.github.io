@@ -4,7 +4,7 @@
 2. Bandizip
 [`bandisoft.com/bandizip`](https://www.bandisoft.com/bandizip/)
 
-3.EveryThing
+3.EveryThing 
 [`voidtools.com/zh-cn/downloads`](https://www.voidtools.com/zh-cn/downloads/)
 
 4. OBS
@@ -28,7 +28,11 @@
 10.Powershell
 [https://github.com/PowerShell/powershell/releases](https://github.com/PowerShell/powershell/releases)
 
+11.VSCode
+[https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
+12.minGW
+[https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)
 ### Minecraft
 
 1. Java
