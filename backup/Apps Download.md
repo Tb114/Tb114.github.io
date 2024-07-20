@@ -30,6 +30,7 @@
 
 11.VSCode
 [`https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user`](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
+[`https://gh.con.sh/https://raw.githubusercontent.com/Tb114/VScode-Auto-Sync/main/VSCodeSetup.exe`](https://gh.con.sh/https://raw.githubusercontent.com/Tb114/VScode-Auto-Sync/main/VSCodeSetup.exe) (Faster)
 
 12.minGW
 [`https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/`](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)
