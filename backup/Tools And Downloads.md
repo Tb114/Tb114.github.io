@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Tb114.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Tb114.github.io</link></image><lastBuildDate>Sat, 24 May 2025 15:21:46 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Tools And Downloads</title><link>https://Tb114.github.io/post/Tools%20And%20Downloads.html</link><description>Tools
+Tools
 网页blob文件下载
 [blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html](https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html)
 
@@ -51,7 +50,7 @@ https://github.com/microsoft/terminal
 https://github.com/PowerShell/powershell/releases
 
 11.VSCode
-https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user
+https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
 
 12.minGW
 https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/
@@ -66,4 +65,4 @@ Bakaxl
 HMCL
 [hmcl.huangyuhui.net/download](https://github.com/Tb114/Tb114.github.io/issues/hmcl.huangyuhui.net/download)
 
-PCL2。</description><guid isPermaLink="true">https://Tb114.github.io/post/Tools%20And%20Downloads.html</guid><pubDate>Sat, 24 May 2025 15:21:15 +0000</pubDate></item></channel></rss>
+PCL2
